@@ -18,7 +18,7 @@ Tacit is a method for maintaining an AI assisted notebook. It is a set of conven
 - Configure Visual Studio Code to suggest Copilot completions as you type. 
   - By default, GitHub Copilot doesn't make suggestions in markdown files. You need to enable it. In Visual Studio Code, go to the settings, search for "Copilot", and enable "GitHub Copilot: Enable in Markdown Files". This will allow Copilot to make suggestions in your notes.
 - Create a directory structure that makes sense for you. I've included an example structure in the `/src` directory. You can adapt it to your needs.
-- Create a `copilot-instructions.md` file in the root of your notes directory. This file will contain the instructions that tell Copilot how to behave in your notes. I've included an example in the `/src/.github/copilot-instructions.md` file.
+- Create a `copilot-instructions.md` file in the root of your notes directory. This file will contain the instructions that tell Copilot how to behave in your notes. I've included an example in the [/src/.github/copilot-instructions.md](/src/.github/copilot-instructions.md) file.
 - Configure your context.
   - When working in GitHub Copilot chat, be sure to add context via the "Add Context" button. This will help Copilot understand your notes better.
   - I like to keep 5 days of notes open, as well as my `copilot-instructions.md` file. This gives Copilot a good amount of context to work with.
