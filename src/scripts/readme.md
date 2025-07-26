@@ -1,0 +1,1 @@
+<!-- place longer scripts and code snippets in the `scripts/` directory and reference them with relative paths. -->

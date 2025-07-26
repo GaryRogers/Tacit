@@ -1,0 +1,1 @@
+<!-- place images in this directory and reference them like so: ![alt text](./image.png) -->
